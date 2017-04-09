@@ -1,0 +1,11 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Paslaugos kvietimo URL: http://localhost:3003/param, kur param yra sveikasis skaičius: N-tasis Fibonachi narys, kurį paslauga ir apskaičiuoja:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "IgnasKarazija",
+  "license": "ISC"
+}
